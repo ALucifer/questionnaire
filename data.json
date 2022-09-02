@@ -1,0 +1,35 @@
+{
+    "quiz": [
+    {
+        "id": 1,
+        "libelle": "Design Patterns"
+    }, 
+    {
+        "id": 2,
+        "libelle": "Bonne pratiques javascript"
+    },
+    {
+        "id": 3,
+        "libelle": "Test"
+    }
+    ],
+    "questions": [{
+        "id": 1,
+        "quiz": 1,
+        "libelle": "Quel est ce design pattern ?",
+        "questionType": "imageType",
+        "response": 1
+    }, {
+        "id": 2,
+        "quiz": 1,
+        "libelle": "Quel est l'avantage du Design Singleton",
+        "questionType": "textType",
+        "response": 2
+    }, {
+        "id": 3,
+        "quiz": 1,
+        "libelle": "Quel est ce design pattern ?",
+        "questionType": "imageType",
+        "response": 3
+    }]
+}
